@@ -145,7 +145,7 @@
         <dependency>
           <groupId>mysql</groupId>
           <artifactId>mysql-connector-java</artifactId>
-          <version>8.0.17</version>
+          <version>8.0.31</version>
         </dependency>
 
         <dependency>
@@ -186,7 +186,7 @@
       <properties>
         <mainClassName>org.apereo.cas.web.CasWebApplication</mainClassName>
         <isExecutable>true</isExecutable>
-        <manifestFileToUse></manifestFileToUse>
+        <manifestFileToUse/>
       </properties>
       <build>
         <plugins>
